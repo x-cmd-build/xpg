@@ -1,2 +1,2 @@
-# xpg
+# xplr
 x-cmd rebuild
