@@ -1,0 +1,2 @@
+# xpg
+x-cmd rebuild
